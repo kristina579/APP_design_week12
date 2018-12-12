@@ -59,10 +59,45 @@
 ._文本段落 {
   text-align:left;
 }
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+._流程形状 {
+}
 .tree_node {
   text-align:left;
 }
 ._连接线 {
 }
 .flow_shape {
+}
+._默认样式 {
+}
+._跳转-移入 {
+  color:#1ABC9C;
+}
+.icon {
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.box_11 {
+}
+.box_2 {
+}
+._表格 {
+}
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
 }
